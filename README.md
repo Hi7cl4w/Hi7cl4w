@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hi7cl4w" alt="hi7cl4w" /></a> </p>
 
-- 🔭 I’m currently working for **Pinocks Technologies**
+- 🔭 I’m currently working at **Pinocks Technologies**
 
 - 💬 Ask me about **react, vue, angular, android**
 
