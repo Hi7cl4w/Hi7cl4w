@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu K</h1>
-<h3 align="center">A dedicated front-end developer with a passion for crafting exceptional digital experiences, proudly based in India.</h3>
+<h3 align="center">A dedicated full-stack developer with a passion for crafting exceptional digital experiences, proudly based in India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi7cl4w&label=Profile%20views&color=0e75b6&style=flat" alt="hi7cl4w" /> </p>
 
